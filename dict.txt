@@ -1,4 +1,149 @@
 
-# Malý slovník juda
+# Slovník
+
+## Malý slovník juda
+
+Ashi-waza	techniky nohou
+Awasete-Ippon	"je to jeden bod" (u dvou waza-ari)
+
+Barai (Harai)	podmet
+Budo	souhrnný název všech asijských bojových umění
+
+Dan	mistrovský stupeň (Ichi, Ni, San, Yon, Go, Roku, Shichi, Hachi, Kyu, Ju)
+
+De	dopředu
+Do	cesta, princip, učení
+Dojo	tréninková hala
+Dori (Tori)	ten, kdo hází
+
+Eri	límec
+
+Fusen-sho	vítězství nenastoupením soupeře
+
+Gaeshi (Kaeshi)	protiútok
+Gake	zaháknout
+Gari	podraz
+-garami	výkrut
+-gatame (Katame)	znehybnění (u držení a páčení)
+-geiko	cvičení
+Gokyo	systém Kodokanu
+Gonosen-no-kata	kata dvanácti protichvatů
+Goshi (Koshi-waza)	boky (techniky boků)
+Guruma	přetočení
+Gyaku	obrácený
+
+Hadaka	volný, holý
+Hane	skákat
+Hara	břicho
+Harai (Barai)	podmet
+Hidari	vlevo
+Hiza	koleno
+Hiji	loket
+Hon	základní, hlavní
+
+Itsutsu-no-kata	kata pěti principů
+
+Jime (shime)	škrcení
+Ju	poddat se, jemný
+Judo	sport jemné cesty
+Judogi	judistický oblek
+Judoka	judista
+Juji	kříž
+Ju-no-kata	kata principů povolnosti
+
+Kaeshi	spadnout na záda 
+(Gaeshi)	(protiútok)
+Kagato	chodidlo, pata
+Kake	konečná fáze hodu
+Kami	horní část těla
+Kannuki	šikmo, zablokovaný
+Kano, Dr. Jigoro	zakladatel moderního juda
+Kansetsu-waza	techniky páčení
+Kata	rameno, sestava (jeden, forma)
+Katame (gatame)	držení (u úchopu a páčení)
+Katame-no-kata	kata chvatů na zemi
+Keiko (Geiko)	cvičení
+Kiai	bojový výkřik
+Kime-no-kata	kata, která prezentuje staré judistické učení o sebeobraně
+Kimono	starojaponský oblek
+Ko	malý
+Kodokan	institut juda v Tokiu
+Kodokan-goshin-jitsu	forma, sebeobrana
+Koshi-waza (Goshi)	techniky boků
+Koshiki-no-kata	kata tělesného a duševního rozvoje
+Kubi	krk
+Kuzure	druh, varianta
+Kyu	stupeň, žák (Ik hnědý, Ni, San, Yon, Go, Roku bílý)
+
+Ma	přímý
+Maki	sbalit
+Mata	vnitřní strana stehna
+Migi	vpravo
+Mokuso	judistický sed, koncentrace
+Morote	obouruč
+Mune	hruď
+
+Nage-no-kata	kata hodů
+Nage-waza	chvaty v postoji
+Ne-waza	chvaty na zemi
+
+O	velký
+Obi	pás
+Okuri	postrčit
+Osae	držet
+Oten	kotoul do strany
+Otoshi	padat
+
+Ran	volný
+Randori	cvičení (cvičný zápas, chaos)
+Rei	uklonit se
+Renshu	volné učení
+Ryo	dva, oba
+
+Samurai	bojovník
+Sankaku	trojúhelník
+Sasae	držet, podepírat
+Sensei	učitel, mistr
+Seoi	rameno
+Shiai	zápas
+
+Shiaijo	zápasiště
+Shiho	čtyři rohy
+Shime-waza	techniky škrcení
+Sode	rukáv
+Soto	vně
+Sukui	zdvich, podebrání
+Sumi	roh
+Sutemi-waza	strhy a překoty
+
+Tai	tělo
+Tani	údolí
+Tatami	rohož z rýžové slámy
+Tate	seshora
+Te-waza	technika paží
+Tomoe	kruh
+Tori	útočník, ten, kdo hází
+Tsukuri	nástup, zahájení hodu
+Tsuri	táhnout
+Tsuri-komi	práce paže, jež drží límec při vychylování
+
+Uchi	uvnitř
+Uchi-komi	nástupy do chvatu bez házení soupeře
+Ude	paže
+Uke	obránce, příjemce techniky
+Ukemi-waza	techniky pádů
+Uki	plout, plovoucí
+Ura	záda
+Ushiro	obráceně, vzadu
+Utsuri	vystřídat
+Wakare	oddělit se
+Waza	technika, umění
+
+Yoko	strana
+Yudansha	nositel danu
+
+Za-rei	úklon v kleku
+Za-zen	meditace v sedu
+Zubon	kalhoty
 
 
