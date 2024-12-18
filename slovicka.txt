@@ -1,0 +1,196 @@
+
+zakladni
+
+judo jemná cesta
+hajime začněte, bojujte
+mate přerušení
+seiza klek sedmo
+rei povel k pozdravu
+tatami judistická žíněnka, japonská rohož
+dojo judistická tělocvična
+Jigoro Kano zakladatel juda
+Japonsko země, odkud pochází judo
+Lukáš Krpálek nejúspěšnější judista české historie
+název tvého klubu …
+judogi judistické kimono
+obi judo pás
+tori útočník, aktivnější z dvojice
+uke obránce, pasivnější z dvojice (ten, který padá)
+ukemi pády
+randori cvičný zápas, volný zápas
+
+zluty
+
+maita "vzdávám se"
+ushiro-ukemi pád vzad
+yoko-ukemi pád stranou
+mae-mawari-ukemi pád vpřed
+1882 rok založení juda
+kyu žákovský stupeň technické vyspělosti
+dan mistrovský stupeň technické vyspělosti
+ne-waza techniky na zemi
+nage-waza techniky hodů a strhů
+ippon vítězství před časovým limitem
+waza-ari ohodnocení při zápase
+soremade konec
+shido trest při zápase
+hansoku-make diskvalifikace soupeře nebo obdržení třetího trestu shido
+osaekomi držení nasazeno (povel rozhodčího)
+toketa držení přerušeno (povel rozhodčího)
+kumi-kata způsoby úchopu, boj o úchop
+kuzushi vychýlení soupeře
+tsukuri nástup do techniky
+kake závěrečná fáze hodu
+sonomama nehýbejte se (povel rozhodčího)
+yoshi pokračujte v boji (konec sonomama)
+ritsu-rei malý pozdrav (v postoji)
+zarei velký pozdrav (v kleku)
+
+oranzovy 
+
+hai ano, vyjádření souhlasu
+arigato děkuji
+sensei učitel
+kohai žák
+o velký
+goshi bok
+ashi noha
+harai podmet
+waza-ari-awasete-ippon vítězství dosažené dvěma waza-ari
+nage-komi cvičení opakovaných hodů bez odporu soupeře
+katame-waza znehybnění
+goshi-waza techniky boků
+ashi-waza techniky nohou
+te-waza techniky rukou
+sutemi-waza techniky strhů
+tokui-waza osobní technika
+
+zeleny 
+
+uchi-komi nástupy do chvatu bez hodu ukeho
+go-kyo soubor čtyřiceti základních chvatů juda
+tsugi-ashi přísuvná chůze
+ayumi-ashi normální chůze
+gaeshi protichvat, kontrachvat
+gatame kontrola, kontrolovat, znehybnění
+geiko cvičení
+hairi-kata způsoby otevření boje
+hara břicho
+hidari vlevo
+hikiwake nerozhodný výsledek
+hiza koleno
+hon základní
+jigo-hon-tai základní obranný postoj
+kansetsu kloub
+kansetsu-waza páky, techniky páčení
+kata soubor chvatů pro předvádění (tzv. soubor vzorových chvatů),
+kata se cvičí na mistrovské pásy
+kuzure varianta, změna
+nage hod, poraz
+nage-no-kata základní soubor chvatů v postoji na I. DAN
+katame-no-kata kata technik na zemi
+osaekomi-toketa držení přerušeno
+otoshi padat, pokles
+renraku-waza kombinace různých chvatů
+renshu soustavný trénink
+renzoku-waza opakovaný útok stejným chvatem
+sankaku způsob blokování soupeře nohama, tzv. trojúhelník
+shiai boj, utkání na soutěži
+shizei postoj, střeh
+sode rukáv
+
+modry
+
+sutemi-waza strhy a překoty
+tachi-waza techniky porazů
+tachi postoj
+tai tělo
+tai-sabaki obraty
+tandoku-renshu nácvik chvatu bez soupeře
+te ruka
+uchi-komi nástupy do chvatu
+butsukari-geiko nástupy do chvatu za pohybu
+sute-geiko cvičení zaměřené na odstraňování chyb v technice
+se zkušenějším ukem
+yaku-soku-geiko techniky prováděné v zápasovém pohybu
+kakari-geiko cvičení s více soupeři za sebou
+kumi-kata úchop, boj o úchop
+
+hnedy
+
+tai tělo
+men hlava
+yokomen spánek
+shomen čelo
+kubi krk, zátylek
+kata rameno, sestava
+mune hrudník
+goshi boky
+ude paže, loket i rameno
+hiji loket
+yubi prsty
+ashi noha, nohy
+mata vnitřní strana stehna
+hiza koleno
+koshi bříško chodidla za prsty
+kakato pata
+soto vně, vnější
+sasae zadržet
+uchi vnitřní
+harai podmet, zametení koštětem
+gari podraz, pohyb srpu
+gake zaháknout
+tsuri táhnout
+tsurikomi specifický pohyb ruky na límci soupeře,
+ruka s rybářským prutem
+guruma kruh
+morote obouruč
+maki zabalit
+otoshi poklesnout, padat, strhnout
+okuri pár (ve významu „vzít obě“)
+juji kříž, do kříže
+sankaku trojuhelník
+kesa napříč
+shiho do čtyř směrů
+dori vzít, uchopit
+suwari v kleče, v sedě
+sukui zdvih
+wakare oddělit se
+de předsunuté
+mae vpřed, dopředu
+yoko stranou
+ura za sebe, vzad
+ushiro ze zadu, vzadu
+migi vpravo, pravý
+hidari vlevo, levý
+dachi postoj
+hanmi vzájemné postavení
+ai stejnostranný
+gyaku opačný, protilehlý
+shintai pohyb po tatami
+
+číslovka
+1 ichi [iči]
+2 ni [ny]
+3 san [san]
+4 shi [ši]
+5 go [go]
+6 roku [rok]
+7 shichi [šiči]
+8 hachi [hači]
+9 kyu [kjů]
+10 ju [džů]
+
+NAGE-WAZA (TECHNIKY HODŮ A STRHŮ)
+TACHI-WAZA (TECHNIKY HODŮ)
+KATAME-WAZA (TECHNIKY ZNEHYBNĚNÍ)
+ATEMI-WAZA (TECHNIKY ÚDERŮ A KOPŮ)
+ASHI-WAZA (techniky nohou) MA SUTEMI WAZA (techniky strhů přímých)
+GOSHI-WAZA (techniky boků) YOKO SUTEMI WAZA (techniky strhů stranou)
+TE-WAZA (techniky rukou)
+OSAEKOMI-WAZA (techniky držení)
+SHIME-WAZA (techniky škrcení)
+KANSETSU-WAZA (techniky páčení)
+SUTEMI-WAZA (TECHNIKY STRHŮ)
+
+Zpracoval: Jiří Vaněk, TMK ČSJu 2023
