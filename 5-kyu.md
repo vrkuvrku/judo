@@ -16,14 +16,17 @@
 #### ! sasae-tsurikomi-ashi 
 
 - https://www.youtube.com/watch?v=699i--pvYmE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/699i--pvYmE?si=EKFbtZPUOr7ESTpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - volant s podvrtnutim 
 - za chuze dozadu ukrok stranou, nazvednout, druhou prislapnout, volant
-- podobna hiza-guruma, ale prislapnuti
+- podobna hiza-guruma, ale jdu dozadu, prislapnuti
 
 #### hiza-guruma
 
 - https://www.youtube.com/watch?v=JPJx9-oAVns
-- podobna sasae-tsurikomi-ashi, ale strzeni dolu a kop?
+- podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
 #### ! o-goshi
 
