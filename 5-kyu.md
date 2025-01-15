@@ -13,7 +13,7 @@
 
 ### 2. Nage waza
 
-#### 🟢 11 sasae-tsurikomi-ashi
+#### 🟢 sasae-tsurikomi-ashi
 
 - sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
@@ -22,12 +22,12 @@
 - za chuze dozadu ukrok stranou, nazvednout, druhou prislapnout, volant
 - podobna hiza-guruma, ale jdu dozadu, prislapnuti
 
-#### ⚪ 12 hiza-guruma
+#### ⚪ hiza-guruma
 
 - https://www.youtube.com/watch?v=JPJx9-oAVns
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
-#### 🟢 13 o-goshi
+#### 🟢 o-goshi
 
 - https://www.youtube.com/watch?v=yhu1mfy2vJ4
 - pytel brambor
