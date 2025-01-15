@@ -15,9 +15,12 @@
 
 
 
+
 #### 🟢 sasae-tsurikomi-ashi
 
 Základ techniky spočívá v zablokování soupeřovy nohy (kotníku) při aktivním přitahování a otáčení těla, čímž se využívá pohyb soupeře k jeho převrácení vpřed nebo stranou.
+
+- Blok kotníku, tah a otočení těla.
 
 - sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
@@ -30,12 +33,16 @@ Základ techniky spočívá v zablokování soupeřovy nohy (kotníku) při akti
 
 Tato technika využívá pohyb soupeře k jeho přetočení přes zablokované koleno, přičemž se rotace provádí kolem fixačního bodu vytvořeného nohou.
 
+Blok kolene, rotace kolem něj.
+
 - https://www.youtube.com/watch?v=JPJx9-oAVns
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
 #### 🟢 o-goshi
 
 Klasický bokový hod, kde se soupeř přehazuje přes kyčel tím, že se pod něj otočíme a vytvoříme bod opory v oblasti boků.
+
+Otočka pod soupeře, přehod přes boky.
 
 - https://www.youtube.com/watch?v=yhu1mfy2vJ4
 - pytel brambor
@@ -45,12 +52,16 @@ Klasický bokový hod, kde se soupeř přehazuje přes kyčel tím, že se pod n
 
 Technika přetočení soupeře vpřed nebo stranou, při které se přehazuje přes napnutou nohu, zatímco zbytek těla aktivně táhne a otáčí.
 
+Napnutá noha, přitažení, přetočení vpřed.
+
 - https://www.youtube.com/watch?v=4x6S3Q-Ktv8
 - siroky pres zada
 
 #### 🟠 o-soto-otoshi
 
 Technika vnějšího podmetu, kdy tori tlačí soupeře dozadu a přitom ho přehazuje přes opěrnou nohu, aniž by docházelo k zametání.
+
+Tlak vzad, přehod přes opěrnou nohu.
 
 - https://www.youtube.com/watch?v=2DsVvDw7b8g
 - https://en.wikipedia.org/wiki/Osoto_otoshi
@@ -61,14 +72,17 @@ Technika vnějšího podmetu, kdy tori tlačí soupeře dozadu a přitom ho pře
 
 Malý vnější podmet, kdy se zametá soupeřova pata do strany nebo dozadu při současném přitahování a vychylování.
 
+Malý podmet paty, přitažení soupeře.
+
 - https://www.youtube.com/watch?v=jeQ541ScLB4
 - podobne de-ashi-harai
 - pristoupit zboku, skripnout ruku dozadu, zezadu podkopnout
 
-
 #### 🔴 de-ashi-harai
 
 Zametání postupující nohy soupeře ve správném načasování, kdy je noha v okamžiku největšího odlehčení a pohybu.
+
+Zametání pohybující nohy, tah do strany.
 
 - https://www.youtube.com/watch?v=4BUUvqxi_Kk
 - podobne ko-soto-gari
