@@ -1,0 +1,31 @@
+
+my $count = 10;
+
+while(<DATA>) {
+	my($id,$name) = split(/\s/);
+	$count = sprintf("%02d",$count+1);
+	print "yt-dlp -o $count\.$name\_${id}.mp4 -f 270 'https://www.youtube.com/embed/$id' >$count.txt 2>$count.err ; echo $count \$\@\n";
+}
+
+__DATA__
+699i--pvYmE Sasae-tsurikomi-ashi
+JPJx9-oAVns Hiza-guruma
+yhu1mfy2vJ4 O-goshi
+4x6S3Q-Ktv8 Tai-otoshi
+2DsVvDw7b8g O-soto-otoshi
+jeQ541ScLB4 Ko-soto-gari
+4BUUvqxi_Kk De-ashi-harai
+zQR3IOXxO_Q Kata-gatame
+55-rFmBx53g Tate-shiho-gatame
+TT7XJVSEQxA yoko-shiho-gatame
+HFuMjOv0WN8 kami-shiho-gatame
+0itJFhV9pDQ o-uchi-gari
+c-A_nP7mKAc o-soto-gari
+--
+
+for i in *.mp4 ; do echo $i ;  ffmpeg -i $i -ss 00:00:05 -to 00:00:09 -c copy ../cut/$i.mp4 ; done
+for i in *.mp4 ; do echo $i ;  ffmpeg -i $i -vf "scale=640:-1:flags=lanczos,palettegen" ../palette/$i.png ; done
+for i in *.png ; do echo $i ;  ffmpeg -i `basename ../cut/$i .png` -i $i -filter_complex "scale=640:-1:flags=lanczos[x];[x][1:v]paletteuse"  ../gif/$i.gif ; done
+for i in *.png ; do echo $i ;  ffmpeg -i ../cut/`basename $i .png`.mp4.mp4 -i $i -filter_complex "scale=640:-1:flags=lanczos[x];[x][1:v]paletteuse"  ../gif/$i.gif ; done
+for i in *.gif ; do convert $i -coalesce -set delay 15 -loop 0 ../slow/$i ; done
+

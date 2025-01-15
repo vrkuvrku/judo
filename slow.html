@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Touch Carousel</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .swiper {
+            width: 100%;
+            height: 100vh;
+        }
+        .swiper-slide {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #ddd;
+        }
+        .swiper-slide img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            <!-- Vlož sem svoje obrázky -->
+<div class="swiper-slide"><img src="slow/11.Sasae-tsurikomi-ashi_699i--pvYmE.png.gif"></div>
+<div class="swiper-slide"><img src="slow/12.Hiza-guruma_JPJx9-oAVns.png.gif"></div>
+<div class="swiper-slide"><img src="slow/13.O-goshi_yhu1mfy2vJ4.png.gif"></div>
+<div class="swiper-slide"><img src="slow/14.Tai-otoshi_4x6S3Q-Ktv8.png.gif"></div>
+<div class="swiper-slide"><img src="slow/15.O-soto-otoshi_2DsVvDw7b8g.png.gif"></div>
+<div class="swiper-slide"><img src="slow/16.Ko-soto-gari_jeQ541ScLB4.png.gif"></div>
+<div class="swiper-slide"><img src="slow/17.De-ashi-harai_4BUUvqxi_Kk.png.gif"></div>
+<div class="swiper-slide"><img src="slow/18.Kata-gatame_zQR3IOXxO_Q.png.gif"></div>
+<div class="swiper-slide"><img src="slow/19.Tate-shiho-gatame_55-rFmBx53g.png.gif"></div>
+<div class="swiper-slide"><img src="slow/20.yoko-shiho-gatame_TT7XJVSEQxA.png.gif"></div>
+<div class="swiper-slide"><img src="slow/21.kami-shiho-gatame_HFuMjOv0WN8.png.gif"></div>
+<div class="swiper-slide"><img src="slow/22.o-uchi-gari_0itJFhV9pDQ.png.gif"></div>
+<div class="swiper-slide"><img src="slow/23.o-soto-gari_c-A_nP7mKAc.png.gif"></div>
+        </div>
+        <!-- Přidej navigační tlačítka (volitelné) -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper', {
+            direction: 'horizontal', // Nebo 'vertical' pro vertikální posun
+            loop: true,             // Opakování obrázků
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            // Povolení swipe touch gest
+            grabCursor: true,
+        });
+    </script>
+</body>
+</html>
