@@ -13,7 +13,11 @@
 
 ### 2. Nage waza
 
+
+
 #### 🟢 sasae-tsurikomi-ashi
+
+Základ techniky spočívá v zablokování soupeřovy nohy (kotníku) při aktivním přitahování a otáčení těla, čímž se využívá pohyb soupeře k jeho převrácení vpřed nebo stranou.
 
 - sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
@@ -24,10 +28,14 @@
 
 #### ⚪ hiza-guruma
 
+Tato technika využívá pohyb soupeře k jeho přetočení přes zablokované koleno, přičemž se rotace provádí kolem fixačního bodu vytvořeného nohou.
+
 - https://www.youtube.com/watch?v=JPJx9-oAVns
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
 #### 🟢 o-goshi
+
+Klasický bokový hod, kde se soupeř přehazuje přes kyčel tím, že se pod něj otočíme a vytvoříme bod opory v oblasti boků.
 
 - https://www.youtube.com/watch?v=yhu1mfy2vJ4
 - pytel brambor
@@ -35,10 +43,14 @@
 
 #### 🔴 tai otoshi
 
+Technika přetočení soupeře vpřed nebo stranou, při které se přehazuje přes napnutou nohu, zatímco zbytek těla aktivně táhne a otáčí.
+
 - https://www.youtube.com/watch?v=4x6S3Q-Ktv8
 - siroky pres zada
 
 #### 🟠 o-soto-otoshi
+
+Technika vnějšího podmetu, kdy tori tlačí soupeře dozadu a přitom ho přehazuje přes opěrnou nohu, aniž by docházelo k zametání.
 
 - https://www.youtube.com/watch?v=2DsVvDw7b8g
 - https://en.wikipedia.org/wiki/Osoto_otoshi
@@ -47,12 +59,16 @@
 
 #### 🟡 ko-soto-gari
 
+Malý vnější podmet, kdy se zametá soupeřova pata do strany nebo dozadu při současném přitahování a vychylování.
+
 - https://www.youtube.com/watch?v=jeQ541ScLB4
 - podobne de-ashi-harai
 - pristoupit zboku, skripnout ruku dozadu, zezadu podkopnout
 
 
 #### 🔴 de-ashi-harai
+
+Zametání postupující nohy soupeře ve správném načasování, kdy je noha v okamžiku největšího odlehčení a pohybu.
 
 - https://www.youtube.com/watch?v=4BUUvqxi_Kk
 - podobne ko-soto-gari
