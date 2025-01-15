@@ -13,47 +13,46 @@
 
 ### 2. Nage waza
 
-#### ! sasae-tsurikomi-ashi 
+#### 🟢 11 sasae-tsurikomi-ashi
 
+- sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/699i--pvYmE?si=EKFbtZPUOr7ESTpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - volant s podvrtnutim 
 - za chuze dozadu ukrok stranou, nazvednout, druhou prislapnout, volant
 - podobna hiza-guruma, ale jdu dozadu, prislapnuti
 
-#### hiza-guruma
+#### ⚪ 12 hiza-guruma
 
 - https://www.youtube.com/watch?v=JPJx9-oAVns
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
-#### ! o-goshi
+#### 🟢 13 o-goshi
 
 - https://www.youtube.com/watch?v=yhu1mfy2vJ4
 - pytel brambor
 - strhnout dolu, zady, za pasek, prohodit pres zada
 
-#### tai otoshi
+#### 🔴 tai otoshi
 
 - https://www.youtube.com/watch?v=4x6S3Q-Ktv8
 - siroky pres zada
 
-#### o-soto-otoshi
+#### 🟠 o-soto-otoshi
 
 - https://www.youtube.com/watch?v=2DsVvDw7b8g
 - https://en.wikipedia.org/wiki/Osoto_otoshi
 - Big outer drop, 
 - nazvednuti do strany, bok po boku, kopnuti vnitrni zezadu za jeho vnitrni
 
-#### ko-soto-gari
+#### 🟡 ko-soto-gari
 
 - https://www.youtube.com/watch?v=jeQ541ScLB4
 - podobne de-ashi-harai
 - pristoupit zboku, skripnout ruku dozadu, zezadu podkopnout
 
 
-#### de-ashi-harai
+#### 🔴 de-ashi-harai
 
 - https://www.youtube.com/watch?v=4BUUvqxi_Kk
 - podobne ko-soto-gari
@@ -106,4 +105,36 @@ PRAVIDLA:
   * kansetsu-waza - páčení
 
 
+✅
+✓
+❌
+✖️
+⚠️
+ℹ️
+🔄
+⏳
+🕒
+🟢
+🔴
+🟠
+🟡
+⚪
+👍
+👎
+🚨
+🔥
+⚡
+💀
+☠️
+🛑
+🔒
+🆕
+🔄
+🆙
+🧪
+🤖
+🌐
+⏰
+🕗
+🕘
 
