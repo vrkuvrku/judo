@@ -38,6 +38,7 @@
 
 - https://www.youtube.com/watch?v=4x6S3Q-Ktv8
 - siroky pres zada
+- https://www.youtube.com/watch?v=c4F1czSL7pE - dvouruke tai
 
 #### o-soto-otoshi
 
@@ -49,8 +50,9 @@
 #### ko-soto-gari
 
 - https://www.youtube.com/watch?v=jeQ541ScLB4
+- https://www.youtube.com/watch?v=T3rSf8CcHg4
 - podobne de-ashi-harai
-- pristoupit zboku, skripnout ruku dozadu, zezadu podkopnout
+- pristoupit zboku, skripnout ruku dozadu, bloknout nohu a shodit dozadu
 
 
 #### de-ashi-harai
@@ -61,6 +63,10 @@
 
 
 ### 3. Katame waza (znehybnění) - kolečko držení 
+
+osaekomi waza
+
+https://www.youtube.com/watch?v=nR77oPOOcVs
 
 #### kesa-gatame 
 
