@@ -13,49 +13,78 @@
 
 ### 2. Nage waza
 
-#### ! sasae-tsurikomi-ashi 
 
+
+
+#### 🟢 sasae-tsurikomi-ashi
+
+Základ techniky spočívá v zablokování soupeřovy nohy (kotníku) při aktivním přitahování a otáčení těla, čímž se využívá pohyb soupeře k jeho převrácení vpřed nebo stranou.
+
+- Blok kotníku, tah a otočení těla.
+
+- sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/699i--pvYmE?si=EKFbtZPUOr7ESTpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - volant s podvrtnutim 
 - za chuze dozadu ukrok stranou, nazvednout, druhou prislapnout, volant
 - podobna hiza-guruma, ale jdu dozadu, prislapnuti
 
-#### hiza-guruma
+#### ⚪ hiza-guruma
+
+Tato technika využívá pohyb soupeře k jeho přetočení přes zablokované koleno, přičemž se rotace provádí kolem fixačního bodu vytvořeného nohou.
+
+Blok kolene, rotace kolem něj.
 
 - https://www.youtube.com/watch?v=JPJx9-oAVns
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
-#### ! o-goshi
+#### 🟢 o-goshi
+
+Klasický bokový hod, kde se soupeř přehazuje přes kyčel tím, že se pod něj otočíme a vytvoříme bod opory v oblasti boků.
+
+Otočka pod soupeře, přehod přes boky.
 
 - https://www.youtube.com/watch?v=yhu1mfy2vJ4
 - pytel brambor
 - strhnout dolu, zady, za pasek, prohodit pres zada
 
-#### tai otoshi
+#### 🔴 tai otoshi
+
+Technika přetočení soupeře vpřed nebo stranou, při které se přehazuje přes napnutou nohu, zatímco zbytek těla aktivně táhne a otáčí.
+
+Napnutá noha, přitažení, přetočení vpřed.
 
 - https://www.youtube.com/watch?v=4x6S3Q-Ktv8
 - siroky pres zada
 - https://www.youtube.com/watch?v=c4F1czSL7pE - dvouruke tai
 
-#### o-soto-otoshi
+#### 🟠 o-soto-otoshi
+
+Technika vnějšího podmetu, kdy tori tlačí soupeře dozadu a přitom ho přehazuje přes opěrnou nohu, aniž by docházelo k zametání.
+
+Tlak vzad, přehod přes opěrnou nohu.
 
 - https://www.youtube.com/watch?v=2DsVvDw7b8g
 - https://en.wikipedia.org/wiki/Osoto_otoshi
 - Big outer drop, 
 - nazvednuti do strany, bok po boku, kopnuti vnitrni zezadu za jeho vnitrni
 
-#### ko-soto-gari
+#### 🟡 ko-soto-gari
+
+Malý vnější podmet, kdy se zametá soupeřova pata do strany nebo dozadu při současném přitahování a vychylování.
+
+Malý podmet paty, přitažení soupeře.
 
 - https://www.youtube.com/watch?v=jeQ541ScLB4
 - https://www.youtube.com/watch?v=T3rSf8CcHg4
 - podobne de-ashi-harai
 - pristoupit zboku, skripnout ruku dozadu, bloknout nohu a shodit dozadu
 
+#### 🔴 de-ashi-harai
 
-#### de-ashi-harai
+Zametání postupující nohy soupeře ve správném načasování, kdy je noha v okamžiku největšího odlehčení a pohybu.
+
+Zametání pohybující nohy, tah do strany.
 
 - https://www.youtube.com/watch?v=4BUUvqxi_Kk
 - podobne ko-soto-gari
@@ -112,4 +141,36 @@ PRAVIDLA:
   * kansetsu-waza - páčení
 
 
+✅
+✓
+❌
+✖️
+⚠️
+ℹ️
+🔄
+⏳
+🕒
+🟢
+🔴
+🟠
+🟡
+⚪
+👍
+👎
+🚨
+🔥
+⚡
+💀
+☠️
+🛑
+🔒
+🆕
+🔄
+🆙
+🧪
+🤖
+🌐
+⏰
+🕗
+🕘
 
