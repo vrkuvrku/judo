@@ -1,7 +1,7 @@
 
 ## Hiza-guruma
 
-*Hiza-guruma* je elegantní technika z kategorie _aši-waza_ (techniky nohou), která v překladu znamená *„kolenní kolo“*. Její princip spočívá v tom, že zastavíš soupeřův pohyb tím, že mu zablokuješ koleno, a současně ho pomocí rotace horní části těla přetáhneš přes tento bod.
+**Hiza-guruma** je elegantní technika z kategorie _aši-waza_ (techniky nohou), která v překladu znamená *„kolenní kolo“*. Její princip spočívá v tom, že zastavíš soupeřův pohyb tím, že mu zablokuješ koleno, a současně ho pomocí rotace horní části těla přetáhneš přes tento bod.
 
 ### Jak technika funguje:
 

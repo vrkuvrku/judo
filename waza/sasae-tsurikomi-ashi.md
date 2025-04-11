@@ -1,7 +1,7 @@
 
 ## Sasae-tsurikomi-ashi
 
-*Sasae-tsurikomi-ashi* (支釣込足) je elegantní hod patřící do skupiny _aši-waza_ (techniky nohou), v překladu znamená „podpírající hod s tažením a zdvihem nohou“. Je to technika, která *zastaví pohyb soupeře vpřed tím, že mu zablokuješ nohu*, zatímco ho tahem a rotací hodíš přes tuto překážku.
+**Sasae-tsurikomi-ashi** (支釣込足) je elegantní hod patřící do skupiny _aši-waza_ (techniky nohou), v překladu znamená „podpírající hod s tažením a zdvihem nohou“. Je to technika, která *zastaví pohyb soupeře vpřed tím, že mu zablokuješ nohu*, zatímco ho tahem a rotací hodíš přes tuto překážku.
 
 ### Princip techniky:
 

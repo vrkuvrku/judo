@@ -1,7 +1,7 @@
 
 ## De ashi harai
 
-*De-ashi-harai* (出足払) je elegantní a velmi účinná technika judistických hodů, která patří do skupiny _aši-waza_ (techniky nohou). Překládá se jako „smetení vycházející nohy“ nebo „smetení přední nohy“.
+**De-ashi-harai** (出足払) je elegantní a velmi účinná technika judistických hodů, která patří do skupiny _aši-waza_ (techniky nohou). Překládá se jako „smetení vycházející nohy“ nebo „smetení přední nohy“.
 
 ### Princip techniky:
 

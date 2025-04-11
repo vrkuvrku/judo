@@ -1,7 +1,7 @@
 
 ## O-goshi
 
-*O-goshi* (大腰) je jedna z nejklasičtějších a nejznámějších technik hodu v judu – patří do skupiny _koshi-waza_ (techniky bokem) a znamená *„velký bok“*. Je ideální technika pro začátečníky, protože dobře ukazuje principy přenesení soupeřovy váhy a rotace tělem.
+**O-goshi** (大腰) je jedna z nejklasičtějších a nejznámějších technik hodu v judu – patří do skupiny _koshi-waza_ (techniky bokem) a znamená *„velký bok“*. Je ideální technika pro začátečníky, protože dobře ukazuje principy přenesení soupeřovy váhy a rotace tělem.
 
 ### Základní princip:
 
@@ -9,17 +9,17 @@ V o-goshi si soupeře přitáhneš těsně k sobě, *naložíš ho na bok*, a po
 
 ### Jak provést o-goshi (pravostranná varianta):
 
-1. *Uchopení (kumi-kata)* 
+1. Uchopení (*kumi-kata*) 
 
 – Levou rukou držíš soupeře za rukáv, pravou mu vkládáš kolem pasu nebo pod paži a objímáš mu záda (někdy až ke kyčli).
 
-2. *Příprava a krok*
+2. Příprava a krok
 
 – Levou nohou krokneš dovnitř mezi nohy soupeře, pravou přidáš blízko k levé, čelem a tělem těsně k němu, boky níž než soupeřovy. 
 
 – Soupeře si přitáhneš na bok – nesmí mezi vámi být mezera.
 
-3. Hod (kake)
+3. Hod (*kake*)
 
 – Pokrčíš kolena, narovnáš záda, a zvedneš soupeře lehce bokem nahoru. 
 

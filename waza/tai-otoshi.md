@@ -1,6 +1,6 @@
 ## Tai-otoshi
 
-Tai-otoshi (体落) je základní technika v judu zařazená mezi _nage-waza_ (techniky hodů), konkrétně do podskupiny _te-waza_ (techniky paží). V překladu znamená "tělový pád" nebo "páčení těla".
+**Tai-otoshi** (体落) je základní technika v judu zařazená mezi _nage-waza_ (techniky hodů), konkrétně do podskupiny _te-waza_ (techniky paží). V překladu znamená "tělový pád" nebo "páčení těla".
 
 ### Základní princip techniky:
 

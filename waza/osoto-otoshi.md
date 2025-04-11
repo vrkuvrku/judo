@@ -1,7 +1,7 @@
 
 ## Osoto-otoshi
 
-*Osoto-otoshi* (大外落) je technika z kategorie _nage-waza_ (techniky hodů), konkrétně _aši-waza_ (techniky nohou). Překládá se jako „velký vnější pád“ a je velmi podobná známější technice *osoto-gari*, ale s jedním klíčovým rozdílem: *v osoto-otoshi se noha neprovádí jako „seknutí“, ale spíše jako „zarážka“, přes kterou soupeř padá*.
+**Osoto-otoshi** (大外落) je technika z kategorie _nage-waza_ (techniky hodů), konkrétně _aši-waza_ (techniky nohou). Překládá se jako „velký vnější pád“ a je velmi podobná známější technice **osoto-gari**, ale s jedním klíčovým rozdílem: *v osoto-otoshi se noha neprovádí jako „seknutí“, ale spíše jako „zarážka“, přes kterou soupeř padá*.
 
 ### Hlavní rozdíl oproti osoto-gari:
 

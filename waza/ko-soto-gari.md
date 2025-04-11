@@ -1,7 +1,7 @@
 
 ## Ko-soto-gari
 
-*Ko-soto-gari* (小外刈) je klasická judistická technika zařazená mezi _aši-waza_ (techniky nohou), konkrétně znamená „malé vnější seknutí“. Je to velmi praktická technika, kterou lze využít jak v klasickém tachi-waza, tak v přechodu z neúspěšných pokusů o jiné hody nebo při protivníkově chybě v postoji.
+**Ko-soto-gari** (小外刈) je klasická judistická technika zařazená mezi _aši-waza_ (techniky nohou), konkrétně znamená „malé vnější seknutí“. Je to velmi praktická technika, kterou lze využít jak v klasickém tachi-waza, tak v přechodu z neúspěšných pokusů o jiné hody nebo při protivníkově chybě v postoji.
 
 ### Princip techniky:
 
