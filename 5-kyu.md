@@ -136,12 +136,31 @@ PRAVIDLA:
 1. rozdeleni
 - nage-waza - hodů-techniky
 - katame-waza - znehybneni
-	* osae-komi-waza - držení?
+  * osae-komi-waza - držení?
   * shime-waza - škrcení
   * kansetsu-waza - páčení
 
+de	dopředu
+ashi	noha
+harai	podmet (smetení)
+gari	podraz
+waza	technika
+katame	držení
+goshi	bok
+guruma	přetočení
+hiza	koleno
+kami	horní část těla
+ko	malý
+morote	obouruč
+mune	hruď
+o	velký
+otoshi	padat
+sasae	podepírat/držet
+soto	vně
+tai	tělo
+tate	seshora
+yoko	strana
 
-✅
 ✓
 ❌
 ✖️
