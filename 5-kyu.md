@@ -134,6 +134,7 @@ PRAVIDLA:
 ## Slovicka
 
 1. rozdeleni
+- ukemi - přijetí pádu
 - nage-waza - hodů-techniky
 - katame-waza - znehybneni
   * osae-komi-waza - držení?
@@ -160,6 +161,9 @@ soto	vně
 tai	tělo
 tate	seshora
 yoko	strana
+ushiro	dozadu
+mae	dopředu
+ukemi	pád (přijímací tělo)
 
 ✓
 ❌
