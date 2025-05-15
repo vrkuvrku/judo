@@ -24,6 +24,8 @@ Základ techniky spočívá v zablokování soupeřovy nohy (kotníku) při akti
 
 - sasanka
 - https://www.youtube.com/watch?v=699i--pvYmE
+- https://www.youtube.com/watch?v=mxsAhIh_RVU - tips
+- nohu miskou ke kotniku kotniku, vysoke rukou nahoru, nizke dolu
 
 - volant s podvrtnutim 
 - za chuze dozadu ukrok stranou, nazvednout, druhou prislapnout, volant
@@ -35,7 +37,9 @@ Tato technika využívá pohyb soupeře k jeho přetočení přes zablokované k
 
 Blok kolene, rotace kolem něj.
 
-- https://www.youtube.com/watch?v=JPJx9-oAVns
+- https://www.youtube.com/watch?v=JPJx9-oAVns - kodokan
+- https://www.youtube.com/watch?v=JzsBZ6mrEzk - tips
+- nakrocit za malik, pivot, rukou stahuju dolu, 3x ruzne smery pohybu
 - podobna sasae-tsurikomi-ashi, ale jdu dopredu, strzeni dolu a kop?
 
 #### 🟢 o-goshi
@@ -44,9 +48,10 @@ Klasický bokový hod, kde se soupeř přehazuje přes kyčel tím, že se pod n
 
 Otočka pod soupeře, přehod přes boky.
 
-- https://www.youtube.com/watch?v=yhu1mfy2vJ4
+- https://www.youtube.com/watch?v=yhu1mfy2vJ4 - kodokan
+- https://www.youtube.com/watch?v=n6AzG_LvsSU - tips
 - pytel brambor
-- strhnout dolu, zady, za pasek, prohodit pres zada
+- strhnout k sobe, ramenem vytocit, pod teziste, pritahnout si ho, 
 
 #### 🔴 tai otoshi
 
@@ -54,7 +59,9 @@ Technika přetočení soupeře vpřed nebo stranou, při které se přehazuje p�
 
 Napnutá noha, přitažení, přetočení vpřed.
 
-- https://www.youtube.com/watch?v=4x6S3Q-Ktv8
+- https://www.youtube.com/watch?v=4x6S3Q-Ktv8 - kodokan
+- https://www.youtube.com/watch?v=iJiUWmcP6eg - tips
+- doprostred, paralelne, u toho nachylim, pak za nohu, pod rameno, noznice
 - siroky pres zada
 - https://www.youtube.com/watch?v=c4F1czSL7pE - dvouruke tai
 
@@ -65,6 +72,8 @@ Technika vnějšího podmetu, kdy tori tlačí soupeře dozadu a přitom ho pře
 Tlak vzad, přehod přes opěrnou nohu.
 
 - https://www.youtube.com/watch?v=2DsVvDw7b8g
+- https://www.youtube.com/watch?v=cgkY-n1kACk - tips 
+- strhavame dolu celym telem 
 - https://en.wikipedia.org/wiki/Osoto_otoshi
 - Big outer drop, 
 - nazvednuti do strany, bok po boku, kopnuti vnitrni zezadu za jeho vnitrni
@@ -77,6 +86,8 @@ Malý podmet paty, přitažení soupeře.
 
 - https://www.youtube.com/watch?v=jeQ541ScLB4
 - https://www.youtube.com/watch?v=T3rSf8CcHg4
+- https://www.youtube.com/watch?v=5YdLnVgPoY4 - tips
+- druha ruka strhava rameno, telo vepredu, koleno za koleno, 
 - podobne de-ashi-harai
 - pristoupit zboku, skripnout ruku dozadu, bloknout nohu a shodit dozadu
 
@@ -104,8 +115,10 @@ https://www.youtube.com/watch?v=nR77oPOOcVs
 
 #### kata-gatame 
 
-- https://www.youtube.com/watch?v=zQR3IOXxO_Q
+- https://www.youtube.com/watch?v=zQR3IOXxO_Q - kodokan
+- https://www.youtube.com/watch?v=5v7fI9FcToQ - tips
 - upevnění přes rameno
+- zatlacit loket sikmo, protlacit ruku, hned klesnout ramenem, koleno hluboko
 
 #### tate-shiho-gatame 
 #### mune-gatame 
