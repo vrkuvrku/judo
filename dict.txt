@@ -146,4 +146,38 @@ Za-rei	úklon v kleku
 Za-zen	meditace v sedu
 Zubon	kalhoty
 
+## Techniky
+
+### 5-kyu
+
+de	dopředu
+ashi	noha
+harai	podmet (smetení)
+gari	podraz
+waza	technika
+katame	držení
+goshi	bok
+guruma	přetočení
+hiza	koleno
+kami	horní část těla
+ko	malý
+morote	obouruč
+mune	hruď
+o	velký
+otoshi	padat
+sasae	podepírat/držet
+soto	vně
+tai	tělo
+tate	seshora
+yoko	strana
+ushiro	dozadu
+mae	dopředu
+ukemi	pád (přijímací tělo)
+uchi	vnitřní
+
+### 6-kyu
+
+uki	plout
+harai	podmet
+
 

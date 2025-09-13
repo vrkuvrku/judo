@@ -177,6 +177,7 @@ yoko	strana
 ushiro	dozadu
 mae	dopředu
 ukemi	pád (přijímací tělo)
+uchi	vnitřní
 
 ✓
 ❌
