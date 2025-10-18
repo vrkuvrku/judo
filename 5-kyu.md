@@ -157,7 +157,7 @@ PRAVIDLA:
 de	dopředu
 ashi	noha
 harai	podmet (smetení)
-gari	podraz
+gari	podraz/srp
 waza	technika
 katame	držení
 goshi	bok
