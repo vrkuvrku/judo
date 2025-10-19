@@ -3,6 +3,7 @@
 
 - https://www.youtube.com/watch?v=EiqyoVcIAi8&list=PL8kKAczmL6kCLr4r8G1mtqst3CsH8EzRD
 - https://www.czechjudo.org/dokumenty/10-trenersko-metodicka-komise
+- https://www.kyucup.cz/upload/images/metodika-zr-do-1-kyu-2024.pdf
 
 ### 1. Pojmy
 
@@ -11,10 +12,9 @@
 
 ### 2. Nage waza
 
-#### okuri-ashi-harai 
-- posledni krok rychlejsi a delsi 
-- druhou nohu rychle prisouvat po cele delce? 
-- prikrocit az k hrudi, at je v rukou sila na volant (s natazenymi ho nevychylim)
+#### uki-goshi 
+- radsi za opasek a nazdvednout, dynamicky
+- pak dotocit rukama?
 
 #### harai-goshi 
 - nalepit se na telo, 
@@ -22,15 +22,22 @@
 - v podrepu jen mirne, 
 - vystrelit nahoru a nohou (spis nohou)
 
-#### uki-goshi 
-- radsi za opasek a nazdvednout, dynamicky
-- pak dotocit rukama?
+#### o-uchi-gari
+
+#### seoi-nage-morote
+
+#### okuri-ashi-harai 
+- posledni krok rychlejsi a delsi 
+- druhou nohu rychle prisouvat po cele delce? 
+- prikrocit az k hrudi, at je v rukou sila na volant (s natazenymi ho nevychylim)
+
+#### o-soto-gari
 
 #### ko-uchi-gari
 - posledni krok hodne dlouhy
 
+#### seoi-nage-ippon
 
-https://www.youtube.com/playlist?list=PLwd8pJWYTk05SBR95bpC6zL2hU0mNWuMe
 
 
 ### 3. Katame waza (znehybnění) - kolečko držení 
@@ -51,7 +58,7 @@ https://www.youtube.com/watch?v=nR77oPOOcVs
 
 #### kuzure-kesa-gatame escapes
 
-- stejne, volnou rukou drzim pod krkem
+- 3x stejne, volnou rukou drzim pod krkem
 
 #### ushiro-kesa-gatame 
 
@@ -68,18 +75,21 @@ https://www.youtube.com/watch?v=nR77oPOOcVs
 
 ### 4. kombinace
 
+#### renraku-waza
+
+- kombinace různých technik
+
+#### renzoku-waza
+
+- přechod mezi variantami jedné techniky nebo opakování útoků v plynulém sledu
+
+#### gaeshi-waza
+
+- techniky, které využívají soupeřův útok k protiútoku či kontru.
+
+(hairi-kata - způsob vstupu (do techniky, postoje nebo úchopu) - ne)
+
 https://www.youtube.com/playlist?list=PLwd8pJWYTk05SBR95bpC6zL2hU0mNWuMe
-
-
-PRAVIDLA:
-1. Provedení technik v nage-waza za pohybu a na obě strany je pro kategorii U8 a U10 na uvážení zkušebního komisaře. Starší kategorie již provádí techniky nage-waza v pohybu dle doporučených videí a na obě strany.
-2. Veškeré techniky nage-waza do 5. KYU se předvádí s přechodem do osaekomi-waza. Dbáme na to, aby tori měl neustálou kontrolu nad ukem. Do osaekomi-waza tori přechází až po dokončení techniky nage-waza.
-3. Lhůta mezi zkouškami je minimálně 6 měsíců.
-4. Do 15 let se provádí zkoušky vždy i na půlené pásy.
-5. Od 16 let se provádí zkoušky na celé pásy. Je na uvážení zkušebního komisaře, zda zařadí i požadavky na půlené pásy.
-6. Splnění podmínek k udělení vyššího kyu je i znalost technik z předešlého kyu.
-
-
 
 
 
